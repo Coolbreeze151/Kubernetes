@@ -1,5 +1,5 @@
 # Kubernetes
-This Repo will consist of multiple K8 Projects to work and learn from.
+Useful K8 Projects under CNCF explored under this single repository.
 
 ## Setup Local K8
 I recommend using OrbStack to setup your own personal local K8 Cluster to work with.
