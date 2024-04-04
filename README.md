@@ -13,7 +13,7 @@ More details on K8 using OrbStack can be found [here](https://docs.orbstack.dev/
 
 | Projects     | Purpose                          | Completed |
 | -------------| -------------------------------- | --------- |
-| [ArgoCD](argocd/readme.md)       | CI/CD for K8 applications        | No        |
+| [Argo CD](argocd/readme.md)       | GitOps continuous delivery tool for K8        | No        |
 | Jupyterhub   | Analytics application for users  | No        |
 | Fluentbit    | Log metrics and logs in K8       | No        |
 | Kyverno      | Policies to secure K8            | No        |
