@@ -46,6 +46,10 @@ If you are versed in Argo CD you may proceed to launch the Kyverno helm chart vi
 
 ![Create Kyverno via Argo CD](../src/img/kyverno/argocd-kyverno.png)
 
+Particularly for Kyverno, you must enable `Replace` in the `syncOptions` for it to work. Kyverno works via kubectl create rather than the kubectl apply option.
+
+https://kyverno.io/docs/installation/platform-notes/#notes-for-argocd-users
+
 ## Applying Kyverno Policies
 There are many policies you can reference and apply into your cluster from https://kyverno.io/policies/
 
