@@ -1,5 +1,8 @@
 # Kubernetes
+
 Useful K8 Projects under CNCF explored under this single repository.
+
+<img src="src/img/k8-logo.png" width="200" height="200">
 
 ## Setup Local K8 Cluster with Orbstack
 I recommend using [OrbStack](https://orbstack.dev/) to setup your own personal local K8 Cluster to work with.
