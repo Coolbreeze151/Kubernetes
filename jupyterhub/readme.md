@@ -1,5 +1,5 @@
 
-## [Back to Top](../README.md)
+## [Back Home](../README.md)
 
 # Jupyterhub
 ## Notebooks for users to work with Data
@@ -70,7 +70,7 @@ hub:
         - jovyan
 ```
 
-Alternatively you can indicate this via the Argo CD UI if you are creating and managin Jupyterhub via Argo CD.
+Alternatively you can indicate this via the Argo CD UI if you are creating and managing Jupyterhub via Argo CD.
 
 ![values yaml in Argo CD](../src/img/jupyter/argocd-values.png)
 
@@ -105,3 +105,6 @@ JupyterHub is highly scalable and can accommodate teams of all sizes.  It effici
 - [Zero to Jupyterhub with Kubernetes](https://z2jh.jupyter.org/en/stable/)
 - [Jupyterhub GitHub](https://github.com/jupyterhub)
 - [Jupyterhub Helm Charts Repo](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+
+
+#### [Back to Top](#back-home)

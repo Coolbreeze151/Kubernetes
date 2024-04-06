@@ -1,4 +1,4 @@
-## [Back to Top](../README.md)
+## [Back Home](../README.md)
 
 # Argo CD 
 ## A GitOps Continuous Delivery Tool
@@ -71,3 +71,6 @@ Argo CD simplifies application management by providing a central location to dep
 Argo CD keeps a watchful eye on your applications. It continuously monitors the deployed state of your applications and compares it to the desired state defined in your Git repository. This real-time health check allows you to identify any discrepancies or errors and take corrective action before they impact your users. Additionally, Argo CD provides detailed information on application health and resource utilization, giving you valuable insights into application performance.
 
 ![Image of Argo CD Dashboard](../src/img/argocd/monitor-status.png)
+
+
+#### [Back to Top](#back-home)
