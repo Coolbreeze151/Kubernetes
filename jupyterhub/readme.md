@@ -13,8 +13,9 @@
     * **[HELM Installation](#helm-installation)**
         * **[Option 1: Via Terminal](#option-1-via-terminal)**
         * **[Option 2: Via Argo CD](#option-2-via-argo-cd)**
-    * **[Network Setup](#network-setup)**
     * **[Login to Jupyterhub](#network-setup)**
+    * **[Jupyterhub Admin](#network-setup)**
+    * **[Jupyterhub Metrics](#network-setup)**
 * **[Benefits of Jupyterhub](#benefits-of-jupyterhub)**
     * **[Simplified Collaboration](#simplified-collaboration)**
     * **[Streamlined Workflows](#streamlined-workflows)**
