@@ -25,7 +25,7 @@ Fluent Bit is a super fast, lightweight, and highly scalable logging and metrics
 ## Getting Started with Fluentbit
 
 ### Create fluentbit Namespace
-Create a namespace for Jupyterhub resources to be placed under.
+Create a namespace for fluentbit resources to be placed under.
 ```bash
 kubectl create ns fluentbit
 ```
@@ -33,7 +33,7 @@ kubectl create ns fluentbit
 ### Helm Installation
 
 #### Option 1: Via Terminal
-Run the following helm commands in terminal to install my-jupyterhub application into your K8 cluster.
+Run the following helm commands in terminal to install my-fluentbit application into your K8 cluster.
 ```bash
 helm repo add fluent https://fluent.github.io/helm-charts
 helm repo update

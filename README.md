@@ -18,9 +18,10 @@ More details on K8 using OrbStack can be found [here](https://docs.orbstack.dev/
 | -------------| -------------------------------- | --------- |
 | [Argo CD](argocd/readme.md)       | GitOps continuous delivery tool for K8        | Yes        |
 | [Jupyterhub](jupyterhub/readme.md)   | Analytics application for users  | Yes        |
-| [Fluentbit](fluentbit/readme.md)    | Log metrics and logs in K8       | Yes        |
-| Kyverno      | Policies to secure K8            | No        |
+| [Fluentbit](fluentbit/readme.md)    | Log and metrics in K8       | Yes        |
+| [Kyverno](kyverno/readme.md)      | K8 Policy Management for Security             | Yes        |
 | Istio        | Service Mesh for K8              | No        |
 | KubeCost     | Monitor Cost of Resources        | No        |
 | KubeFlow     | ML Toolkit for Kubernetes        | No        |
+| Velero     | Backing up Kubernetes Resources       | No        |
 
