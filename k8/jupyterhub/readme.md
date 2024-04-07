@@ -13,9 +13,9 @@
     * **[HELM Installation](#helm-installation)**
         * **[Option 1: Via Terminal](#option-1-via-terminal)**
         * **[Option 2: Via Argo CD](#option-2-via-argo-cd)**
-    * **[Login to Jupyterhub](#network-setup)**
-    * **[Jupyterhub Admin](#network-setup)**
-    * **[Jupyterhub Metrics](#network-setup)**
+    * **[Login to Jupyterhub](#login-to-jupyterhub)**
+    * **[Jupyterhub Admin](#jupyterhub-admin)**
+    * **[Jupyterhub Metrics](#jupyterhub-metrics)**
 * **[Benefits of Jupyterhub](#benefits-of-jupyterhub)**
     * **[Simplified Collaboration](#simplified-collaboration)**
     * **[Streamlined Workflows](#streamlined-workflows)**
@@ -58,6 +58,11 @@ The default credentials as follows:
 username: `jovyan`
 
 password: `password`
+
+![Jupyter Login](../src/img/jupyter/jh-login.png)
+
+After login you will be directed to the Jupyternotebook accordingly.
+![Jupyter Notebook](../src/img/jupyter/jh-notebook.png)
 
 ### Jupyterhub Admin
 To have admin priviledges, you would need to provide admin access to the specific user via the `values.yaml`
