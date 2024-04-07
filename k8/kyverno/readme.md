@@ -1,5 +1,5 @@
 
-## [Back Home](../README.md)
+## [Back Home](../../README.md)
 
 # Kyverno
 ## Kubernetes Native Policy Management 
@@ -52,6 +52,8 @@ https://kyverno.io/docs/installation/platform-notes/#notes-for-argocd-users
 
 ## Applying Kyverno Policies
 There are many policies you can reference and apply into your cluster from https://kyverno.io/policies/
+
+![Kyverno Policies](../src/img/kyverno/kyverno-policies.png)
 
 In this demo we will mainy apply the following policies;
 - `disallow-priviledge-containers.yaml`
