@@ -21,7 +21,7 @@ More details on K8 using OrbStack can be found [here](https://docs.orbstack.dev/
 | [Fluentbit](k8/fluentbit/readme.md)    | Log and metrics in K8       | Yes        |
 | [Kyverno](k8/kyverno/readme.md)      | K8 Policy Management for Security             | Yes        |
 | [Istio](k8/istio/readme.md)        | Service Mesh for K8              | Yes        |
-| [KubeCost](k8/kubecost/readme.md)     | Monitor Cost of Resources        | No        |
+| [KubeCost](k8/kubecost/readme.md)     | Monitor Cost of Resources        | Yes        |
 | KubeFlow     | ML Toolkit for Kubernetes        | No        |
 | Velero     | Backing up Kubernetes Resources       | No        |
 
