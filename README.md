@@ -23,5 +23,5 @@ More details on K8 using OrbStack can be found [here](https://docs.orbstack.dev/
 | [Istio](k8/istio/readme.md)          | Service Mesh for K8                    | Yes       | [Link](https://istio.io/ )             |
 | [KubeCost](k8/kubecost/readme.md)    | Monitor Cost of Resources              | Yes       | [Link](https://www.kubecost.com/)              |
 | KubeFlow                             | ML Toolkit for Kubernetes              | No        | [Link](https://www.kubeflow.org/ )             |
-| [Velero](k8/velero/readme.md)        | Backing up Kubernetes Resources        | No        | [Link](https://velero.io/)              |
+| [Velero](k8/velero/readme.md)        | Backing up Kubernetes Resources        | Yes       | [Link](https://velero.io/)              |
 
