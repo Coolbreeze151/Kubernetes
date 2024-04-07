@@ -71,7 +71,7 @@ Istio integrates seamlessly with diverse deployment needs. You can extend your s
 
 ## Resources
 - [Istio GitHub](https://github.com/istio/istio)
-- [Istio Official](https://istio.io/latest/)
+- [Istio Official Documentation](https://istio.io/latest/)
 
 
 #### [Back to Top](#back-home)
