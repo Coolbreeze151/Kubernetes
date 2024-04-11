@@ -81,4 +81,13 @@ Kubecost goes beyond simply presenting cost data. It analyzes your resource usag
 - [Kubecost Official Documentation](https://kubecost.io/latest/)
 - [Kubecost HELM Chart](https://github.com/kubecost/cost-analyzer-helm-chart/)
 
+
+
+Port Forward
+
+
+SERVICE_HOSTNAME=$(kubectl get inferenceservice sklearn-iris -n kserve-test -o jsonpath='{.status.url}' | cut -d "/" -f 3)
+curl -v -H "Host: ${SERVICE_HOSTNAME}" -H "Content-Type: application/json" "http://${INGRESS_HOST}:${INGRESS_PORT}/v1/models/sklearn-iris:predict" -d @./iris-input.json -o results.json
+
+
 #### [Back to Top](#back-home)
