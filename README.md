@@ -25,3 +25,5 @@ More details on K8 using OrbStack can be found [here](https://docs.orbstack.dev/
 | <img src="k8/src/img/kserve/logo.png" width="50" height="40"> | [KServe](k8/kserve/readme.md)                             | Serve ML models              | Yes        | [Link](https://kserve.github.io/website/latest/)             |
 | <img src="k8/src/img/velero/logo.png" width="50" height="40"> | [Velero](k8/velero/readme.md)        | Backing up Kubernetes Resources        | Yes       | [Link](https://velero.io/)              |
 
+## Overview of Architecture
+![Image of Architecture](k8/src/img/k8architecture.png)
