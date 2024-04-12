@@ -22,6 +22,6 @@ More details on K8 using OrbStack can be found [here](https://docs.orbstack.dev/
 | <img src="k8/src/img/kyverno/logo.png" width="50" height="50"> | [Kyverno](k8/kyverno/readme.md)      | K8 Policy Management for Security      | Yes       | [Link](https://kyverno.io/)              |
 | <img src="k8/src/img/istio/logo.png" width="50" height="50"> | [Istio](k8/istio/readme.md)          | Service Mesh for K8                    | Yes       | [Link](https://istio.io/ )             |
 | <img src="k8/src/img/kubecost/logo.png" width="50" height="40"> | [KubeCost](k8/kubecost/readme.md)    | Monitor Cost of Resources              | Yes       | [Link](https://www.kubecost.com/)              |
-| <img src="k8/src/img/kserve/logo.png" width="50" height="40"> | [KServe](k8/kserve/readme.md)                             | Serve ML models              | No        | [Link](https://www.kubeflow.org/ )             |
+| <img src="k8/src/img/kserve/logo.png" width="50" height="40"> | [KServe](k8/kserve/readme.md)                             | Serve ML models              | Yes        | [Link](https://www.kubeflow.org/ )             |
 | <img src="k8/src/img/velero/logo.png" width="50" height="40"> | [Velero](k8/velero/readme.md)        | Backing up Kubernetes Resources        | Yes       | [Link](https://velero.io/)              |
 
