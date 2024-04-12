@@ -1,7 +1,7 @@
 ## [Back Home](../../README.md)
 
 # KServe
-## Monitor & reduce Kubernetes spend
+## Highly scalable and standards based Model Inference Platform on Kubernetes for Trusted AI
 
 
 <img src="../src/img/kserve/logo.png" width="300" height="200">
